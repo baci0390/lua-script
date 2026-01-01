@@ -1,2 +1,2 @@
-
 print("Script erfolgreich geladen 🚀")
+
